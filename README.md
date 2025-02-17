@@ -1,4 +1,4 @@
-# Hi, I'm Samuel Adetsi
+# Hi, I'm Sam
 
 I am a **Master of Data Science** student at **UBC**, passionate about **Machine Learning, Deep Learning, and AI-driven solutions**. My experience spans **ML model development, end-to-end ML pipelines, and AI-powered applications**. I love working on **real-world projects** that leverage data to drive impactful solutions.
 

@@ -46,8 +46,8 @@ I aim to apply **Machine Learning, Deep Learning, and AI** to solve **complex re
 
 ## Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/samueladetsi](https://www.linkedin.com/in/samueladetsi)  
-- **GitHub**: [github.com/SamuelAdetsi](https://github.com/SamuelAdetsi)  
+- **LinkedIn**: [linkedin.com/in/samuel-adetsi](https://www.linkedin.com/in/samuel-adetsi/)  
+- **GitHub**: [github.com/SamuelAdetsi](https://github.com/Abdul-Rahmann)  
 - **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
 
 ---

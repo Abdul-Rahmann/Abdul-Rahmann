@@ -54,8 +54,8 @@ High-accuracy CNN-based digit classification system with an intuitive web interf
 ## 🔗 Connect With Me
 
 - **LinkedIn**: [linkedin.com/in/samuel-adetsi](https://www.linkedin.com/in/samuel-adetsi/)  
-- **Portfolio**: [samueladetsi.com](https://samueladetsi.com)  
-- **Email**: samuel.adetsi@example.com
+- **Portfolio**: [abdul-rahmann.github.io/portfolio](https://abdul-rahmann.github.io/portfolio)  
+- **Email**: abdulrahmanadetsi@gmail.com
 
 ---
 

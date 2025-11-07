@@ -39,22 +39,18 @@ skills = {
 
 ## 🚀 Featured Projects
 
-### 🌾 [AgroSense: Smart Agriculture Pipeline](https://github.com/SamuelAdetsi/agrosense)
+### 🌾 [AgroSense: Smart Agriculture Pipeline](https://github.com/Abdul-Rahmann/agrosense)
 Production-ready ETL pipeline with **Airflow + dbt + Snowflake** orchestrating multi-source data (weather APIs, IoT sensors) to data warehouse. Built dimensional models, automated transformations, and ML forecasting system.  
 **Impact:** Reduced manual processing by 40%  
 `Airflow` `dbt` `Snowflake` `PostgreSQL` `Python` `scikit-learn` `Dash`
 
-### 💬 [Bank Statement RAG Chatbot](https://github.com/SamuelAdetsi/bank-statement-rag)
+### 💬 [Bank Statement RAG Chatbot](https://github.com/Abdul-Rahmann/bank-statement-rag)
 AI-powered financial assistant using RAG architecture with LangChain and OpenAI GPT. Built end-to-end pipeline with document ingestion, embeddings generation, FAISS vector search, and containerized deployment.  
 `LangChain` `OpenAI GPT` `FAISS` `Docker` `Python` `FastAPI` `NLP`
 
-### ⚡ [ML Training Runtime Estimator](https://github.com/SamuelAdetsi/ml-runtime-estimator)
+### ⚡ [ML Training Runtime Estimator](https://github.com/Abdul-Rahmann/ml-runtime-prediction)
 Production API predicting ML training times with **95% R² accuracy**. Deployed with FastAPI backend, SQL database, and interactive Streamlit dashboard with real-time predictions.  
 `scikit-learn` `FastAPI` `SQL` `Streamlit` `Docker` `Regression Analysis`
-
-### 🔧 [Predictive Maintenance System](https://github.com/SamuelAdetsi/predictive-maintenance)
-Real-time anomaly detection for industrial equipment processing high-frequency sensor data (5-second intervals). Built automated feature engineering pipeline and interactive monitoring dashboard.  
-`Python` `Time Series` `Dash` `Statistical Analysis` `ETL` `AWS`
 
 ---
 

@@ -1,69 +1,96 @@
-# Hi, I'm Samuel Adetsi
+<div align="center">
 
-I'm a **Full Stack Data Scientist** with a **Master of Data Science** from **UBC**, specializing in end-to-end ML solutions from exploratory analysis to production deployment. I build data-driven applications that deliver tangible business value through the combination of statistical rigor, machine learning expertise, and software engineering principles.
+# 👋 Hi, I'm Samuel Adetsi
+
+### Data Scientist | Master's @ UBC | Ex-Morgan Stanley
+
+*Building production data pipelines and ML solutions in Vancouver, BC 🇨🇦*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-adetsi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdul-rahmann.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanadetsi@gmail.com)
+
+</div>
 
 ---
 
-## 🔍 Core Competencies
+## 🎯 About Me
 
-**Machine Learning & Deep Learning**  
-- Supervised & Unsupervised Learning, Neural Networks, CNNs, RNNs, Transformers
-- Custom Model Development, Transfer Learning, Active Learning
-- Comprehensive Model Evaluation (Precision-Recall, F1, ROC AUC, RMSE)  
+I'm a **Data Scientist with software engineering foundations**, combining statistical analysis, machine learning, and data engineering to build scalable solutions. Recently graduated from UBC's Master of Data Science program and exploring production data systems.
 
-**Statistical Analysis & Experimental Design**  
-- Regression Analysis, Hypothesis Testing, A/B Testing, Time Series Analysis  
-- Causal Inference, Bayesian Methods, Experimental Design
-- Feature Selection & Dimensionality Reduction
+**Previously:** Software Engineer @ Morgan Stanley (London) building financial data pipelines  
+**Currently:** Seeking Data Engineer/Data Analyst roles in Vancouver
 
-**MLOps & Data Engineering**  
-- End-to-End ML Pipelines, CI/CD for ML, Model Monitoring & Maintenance
-- Cloud Deployment (AWS, GCP, Azure), Containerization (Docker)
-- Data Processing at Scale, Database Management (SQL & NoSQL)
+---
 
-**Data Visualization & Interactive Applications**  
-- Interactive Dashboards (Streamlit, Dash, Shiny)
-- Custom Visualizations (Matplotlib, Plotly, D3.js)
-- User-Focused Data Product Design
-
-**Programming & Technologies**  
-- Python, R, SQL, JavaScript, TensorFlow, PyTorch, scikit-learn, FastAPI, React
+## 🛠️ Tech Stack
+```python
+skills = {
+    "languages": ["Python", "SQL", "C++", "R", "Bash"],
+    "data_engineering": ["Airflow", "dbt", "Snowflake", "PostgreSQL", "ETL/ELT"],
+    "ml_frameworks": ["scikit-learn", "PyTorch", "TensorFlow", "XGBoost"],
+    "cloud_tools": ["AWS", "Docker", "FastAPI", "Git/GitHub"],
+    "visualization": ["Dash", "Streamlit", "Power BI", "Matplotlib"]
+}
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-### [ATS Resume Analyzer](https://github.com/SamuelAdetsi/ats-resume-analyzer)
-NLP-powered system that extracts key information from resumes and provides relevance scoring against job descriptions. Uses BERT embeddings, custom entity recognition, and intelligent keyword matching.
-`Python` `NLP` `spaCy` `Transformers` `FastAPI` `Streamlit`
+### 🌾 [AgroSense: Smart Agriculture Pipeline](https://github.com/SamuelAdetsi/agrosense)
+Production ETL pipeline with **Airflow + dbt + Snowflake** orchestrating multi-source data ingestion. Built dimensional models and ML forecasting system.  
+**Impact:** Reduced manual processing by 40%  
+`Airflow` `dbt` `Snowflake` `PostgreSQL` `Python` `Dash`
 
-### [DataVista](https://github.com/SamuelAdetsi/datavista)
-Interactive data exploration platform with automated insights generation. Identifies patterns, correlations, and anomalies with minimal user input, making data analysis accessible to non-technical users.
-`Python` `Pandas` `Plotly` `Streamlit` `Statistical Analysis`
+### 💬 [Bank Statement RAG Chatbot](https://github.com/SamuelAdetsi/bank-statement-rag)
+AI-powered financial assistant using RAG architecture with LangChain, OpenAI GPT, and FAISS vector search. Containerized for production deployment.  
+`LangChain` `OpenAI` `FAISS` `Docker` `FastAPI` `Python`
 
-### [IIoT Anomaly Detection](https://github.com/SamuelAdetsi/iiot-anomaly-detection)
-Real-time anomaly detection system for industrial IoT sensors. Combines statistical methods and deep learning to identify equipment failures before they occur.
-`Python` `Time Series` `PyTorch` `LSTM` `Kafka` `Docker`
+### ⚡ [ML Training Runtime Estimator](https://github.com/SamuelAdetsi/ml-runtime-estimator)
+Production API predicting ML training times (95% R² accuracy) with FastAPI backend, SQL database, and interactive Streamlit dashboard.  
+`scikit-learn` `FastAPI` `SQL` `Streamlit` `CI/CD` `Docker`
 
-### [Handwritten Digit Recognition](https://github.com/SamuelAdetsi/handwritten-digit-recognition)
-High-accuracy CNN-based digit classification system with an intuitive web interface for real-time predictions from hand-drawn input.
-`Python` `TensorFlow` `Computer Vision` `CNNs` `Flask` `JavaScript`
-
----
-
-## 🔗 Connect With Me
-
-- **LinkedIn**: [linkedin.com/in/samuel-adetsi](https://www.linkedin.com/in/samuel-adetsi/)  
-- **Portfolio**: [abdul-rahmann.github.io/portfolio](https://abdul-rahmann.github.io/portfolio)  
-- **Email**: abdulrahmanadetsi@gmail.com
+### 🔧 [Predictive Maintenance System](https://github.com/SamuelAdetsi/predictive-maintenance)
+Real-time anomaly detection processing high-frequency industrial sensor data with automated feature engineering and monitoring dashboard.  
+`Python` `Time Series` `Dash` `Statistical Analysis` `ETL`
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Experience Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelAdetsi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelAdetsi&layout=compact&theme=tokyonight)  
+**🏦 Software Engineer @ Morgan Stanley** | London, UK  
+Built automated data validation systems (97% accuracy), optimized database performance (+20% throughput), and maintained real-time financial pipelines.
+
+**🔬 Data Science Capstone @ Brilliant Automation** | Vancouver, BC  
+Architected predictive maintenance ML pipeline with full ETL orchestration and stakeholder dashboards.
+
+**💻 Open Source @ FINOS (Linux Foundation)**  
+Contributed to enterprise data visualization frameworks for global financial institutions.
 
 ---
 
-*Transforming data into insights, insights into action, and action into impact.*
+## 🌱 Currently Learning
+
+- Azure Data Factory & cloud data engineering
+- Advanced SQL optimization & database performance tuning
+- Production MLOps best practices
+- Kafka for real-time streaming architectures
+
+---
+
+## 📈 Let's Connect!
+
+💡 Open to **Data Engineer, Data Analyst, and Data Scientist** opportunities in Vancouver  
+📧 Reach out: abdulrahmanadetsi@gmail.com  
+🔗 More about me: [Portfolio](https://abdul-rahmann.github.io/portfolio) | [LinkedIn](https://www.linkedin.com/in/samuel-adetsi/)
+
+---
+
+<div align="center">
+
+*"Building reliable data solutions through engineering and analysis"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=SamuelAdetsi&color=blue&style=flat-square)
+
+</div>

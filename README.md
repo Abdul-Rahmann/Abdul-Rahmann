@@ -18,7 +18,7 @@
 
 Data Scientist with **software engineering foundations** from Morgan Stanley, combining statistical analysis, machine learning, and data engineering to build scalable solutions. Recent graduate of UBC's Master of Data Science program with hands-on experience building production pipelines and ML systems.
 
-🔍 **Actively seeking:** Data Engineer, Data Analyst, and Data Scientist roles in Vancouver  
+🔍 **Actively seeking:** Data Scientist, Data Engineer, Data and Analyst roles.
 💼 **Authorized to work in Canada** | Open to immediate opportunities
 
 ---
@@ -85,7 +85,7 @@ Enhanced enterprise fintech data visualization frameworks (C++, JavaScript) for 
 
 ## 📈 Let's Connect!
 
-💡 Open to **Data Engineer, Data Analyst, and Data Scientist** opportunities  
+💡 Open to **Data Scientist, Data Engineer and Data Analyst** opportunities  
 📍 Based in Vancouver, BC | Authorized to work in Canada  
 📧 **Email:** abdulrahmanadetsi@gmail.com  
 🔗 **More:** [Portfolio](https://abdul-rahmann.github.io/portfolio) | [LinkedIn](https://www.linkedin.com/in/samuel-adetsi/)

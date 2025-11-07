@@ -4,7 +4,7 @@
 
 ### Data Scientist | Master's @ UBC | Ex-Morgan Stanley
 
-*Building production data pipelines and ML solutions in Vancouver, BC 🇨🇦*
+*Building production data solutions in Vancouver, BC 🇨🇦*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-adetsi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdul-rahmann.github.io/portfolio)
@@ -16,21 +16,22 @@
 
 ## 🎯 About Me
 
-I'm a **Data Scientist with software engineering foundations**, combining statistical analysis, machine learning, and data engineering to build scalable solutions. Recently graduated from UBC's Master of Data Science program and exploring production data systems.
+Data Scientist with **software engineering foundations** from Morgan Stanley, combining statistical analysis, machine learning, and data engineering to build scalable solutions. Recent graduate of UBC's Master of Data Science program with hands-on experience building production pipelines and ML systems.
 
-**Previously:** Software Engineer @ Morgan Stanley (London) building financial data pipelines  
-**Currently:** Seeking Data Engineer/Data Analyst roles in Vancouver
+🔍 **Actively seeking:** Data Engineer, Data Analyst, and Data Scientist roles in Vancouver  
+💼 **Authorized to work in Canada** | Open to immediate opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 ```python
 skills = {
-    "languages": ["Python", "SQL", "C++", "R", "Bash"],
-    "data_engineering": ["Airflow", "dbt", "Snowflake", "PostgreSQL", "ETL/ELT"],
+    "languages": ["Python", "SQL", "C++", "R", "Java"],
+    "data_engineering": ["Airflow", "dbt", "Snowflake", "PostgreSQL", "AWS", "Docker"],
     "ml_frameworks": ["scikit-learn", "PyTorch", "TensorFlow", "XGBoost"],
-    "cloud_tools": ["AWS", "Docker", "FastAPI", "Git/GitHub"],
-    "visualization": ["Dash", "Streamlit", "Power BI", "Matplotlib"]
+    "cloud_devops": ["AWS (S3, Lambda, SageMaker)", "Docker", "CI/CD", "Git"],
+    "visualization": ["Dash", "Streamlit", "Power BI", "Matplotlib", "Seaborn"],
+    "specialties": ["ETL Pipelines", "Statistical Analysis", "NLP", "Time Series"]
 }
 ```
 
@@ -39,51 +40,59 @@ skills = {
 ## 🚀 Featured Projects
 
 ### 🌾 [AgroSense: Smart Agriculture Pipeline](https://github.com/SamuelAdetsi/agrosense)
-Production ETL pipeline with **Airflow + dbt + Snowflake** orchestrating multi-source data ingestion. Built dimensional models and ML forecasting system.  
+Production-ready ETL pipeline with **Airflow + dbt + Snowflake** orchestrating multi-source data (weather APIs, IoT sensors) to data warehouse. Built dimensional models, automated transformations, and ML forecasting system.  
 **Impact:** Reduced manual processing by 40%  
-`Airflow` `dbt` `Snowflake` `PostgreSQL` `Python` `Dash`
+`Airflow` `dbt` `Snowflake` `PostgreSQL` `Python` `scikit-learn` `Dash`
 
 ### 💬 [Bank Statement RAG Chatbot](https://github.com/SamuelAdetsi/bank-statement-rag)
-AI-powered financial assistant using RAG architecture with LangChain, OpenAI GPT, and FAISS vector search. Containerized for production deployment.  
-`LangChain` `OpenAI` `FAISS` `Docker` `FastAPI` `Python`
+AI-powered financial assistant using RAG architecture with LangChain and OpenAI GPT. Built end-to-end pipeline with document ingestion, embeddings generation, FAISS vector search, and containerized deployment.  
+`LangChain` `OpenAI GPT` `FAISS` `Docker` `Python` `FastAPI` `NLP`
 
 ### ⚡ [ML Training Runtime Estimator](https://github.com/SamuelAdetsi/ml-runtime-estimator)
-Production API predicting ML training times (95% R² accuracy) with FastAPI backend, SQL database, and interactive Streamlit dashboard.  
-`scikit-learn` `FastAPI` `SQL` `Streamlit` `CI/CD` `Docker`
+Production API predicting ML training times with **95% R² accuracy**. Deployed with FastAPI backend, SQL database, and interactive Streamlit dashboard with real-time predictions.  
+`scikit-learn` `FastAPI` `SQL` `Streamlit` `Docker` `Regression Analysis`
 
 ### 🔧 [Predictive Maintenance System](https://github.com/SamuelAdetsi/predictive-maintenance)
-Real-time anomaly detection processing high-frequency industrial sensor data with automated feature engineering and monitoring dashboard.  
-`Python` `Time Series` `Dash` `Statistical Analysis` `ETL`
+Real-time anomaly detection for industrial equipment processing high-frequency sensor data (5-second intervals). Built automated feature engineering pipeline and interactive monitoring dashboard.  
+`Python` `Time Series` `Dash` `Statistical Analysis` `ETL` `AWS`
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Professional Background
 
-**🏦 Software Engineer @ Morgan Stanley** | London, UK  
-Built automated data validation systems (97% accuracy), optimized database performance (+20% throughput), and maintained real-time financial pipelines.
+**🏦 Software Engineer @ Morgan Stanley** | London, UK | Jan 2022 - Jul 2023  
+Built automated data validation systems (97% accuracy), optimized C++ database performance (+20% throughput), maintained real-time financial data pipelines for enterprise trading operations.
 
-**🔬 Data Science Capstone @ Brilliant Automation** | Vancouver, BC  
-Architected predictive maintenance ML pipeline with full ETL orchestration and stakeholder dashboards.
+**🔬 Data Scientist @ Brilliant Automation** | Vancouver, BC | Apr 2025 - Jun 2025  
+Architected end-to-end predictive maintenance ML pipeline replacing legacy MATLAB model, with AWS-based data infrastructure and interactive monitoring dashboard.
 
-**💻 Open Source @ FINOS (Linux Foundation)**  
-Contributed to enterprise data visualization frameworks for global financial institutions.
+**💻 Open Source Contributor @ FINOS** | Aug 2023 - Nov 2023  
+Enhanced enterprise fintech data visualization frameworks (C++, JavaScript) for global financial institutions.
 
 ---
 
-## 🌱 Currently Learning
+## 🎓 Education
 
-- Azure Data Factory & cloud data engineering
-- Advanced SQL optimization & database performance tuning
-- Production MLOps best practices
-- Kafka for real-time streaming architectures
+**Master of Data Science** | University of British Columbia | 2024-2025  
+**BSc Information Technology** | University of Cape Coast | 2017-2021
+
+---
+
+## 🌱 Currently Exploring
+
+- Azure Data Factory & cloud data engineering patterns
+- Advanced database optimization & query performance tuning
+- Production MLOps & model monitoring best practices
+- Real-time streaming with Kafka
 
 ---
 
 ## 📈 Let's Connect!
 
-💡 Open to **Data Engineer, Data Analyst, and Data Scientist** opportunities in Vancouver  
-📧 Reach out: abdulrahmanadetsi@gmail.com  
-🔗 More about me: [Portfolio](https://abdul-rahmann.github.io/portfolio) | [LinkedIn](https://www.linkedin.com/in/samuel-adetsi/)
+💡 Open to **Data Engineer, Data Analyst, and Data Scientist** opportunities  
+📍 Based in Vancouver, BC | Authorized to work in Canada  
+📧 **Email:** abdulrahmanadetsi@gmail.com  
+🔗 **More:** [Portfolio](https://abdul-rahmann.github.io/portfolio) | [LinkedIn](https://www.linkedin.com/in/samuel-adetsi/)
 
 ---
 

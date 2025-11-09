@@ -74,15 +74,6 @@ Enhanced enterprise fintech data visualization frameworks (C++, JavaScript) for 
 
 ---
 
-## 🌱 Currently Exploring
-
-- Azure Data Factory & cloud data engineering patterns
-- Advanced database optimization & query performance tuning
-- Production MLOps & model monitoring best practices
-- Real-time streaming with Kafka
-
----
-
 ## 📈 Let's Connect!
 
 💡 Open to **Data Scientist, Data Engineer and Data Analyst** opportunities    

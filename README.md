@@ -85,8 +85,7 @@ Enhanced enterprise fintech data visualization frameworks (C++, JavaScript) for 
 
 ## 📈 Let's Connect!
 
-💡 Open to **Data Scientist, Data Engineer and Data Analyst** opportunities  
-📍 Based in Vancouver, BC | Authorized to work in Canada  
+💡 Open to **Data Scientist, Data Engineer and Data Analyst** opportunities    
 📧 **Email:** abdulrahmanadetsi@gmail.com  
 🔗 **More:** [Portfolio](https://abdul-rahmann.github.io/portfolio) | [LinkedIn](https://www.linkedin.com/in/samuel-adetsi/)
 

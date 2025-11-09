@@ -4,7 +4,7 @@
 
 ### Data Scientist | Master's @ UBC | Ex-Morgan Stanley
 
-*Building production data solutions in Vancouver, BC 🇨🇦*
+*Building production data solutions in 🇨🇦*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-adetsi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdul-rahmann.github.io/portfolio)

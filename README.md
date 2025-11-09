@@ -56,11 +56,11 @@ Production API predicting ML training times with **95% R² accuracy**. Deployed 
 
 ## 💼 Professional Background
 
-**🏦 Software Engineer @ Morgan Stanley** | London, UK | Jan 2022 - Jul 2023  
-Built automated data validation systems (97% accuracy), optimized C++ database performance (+20% throughput), maintained real-time financial data pipelines for enterprise trading operations.
-
 **🔬 Data Scientist @ Brilliant Automation** | Vancouver, BC | Apr 2025 - Jun 2025  
 Architected end-to-end predictive maintenance ML pipeline replacing legacy MATLAB model, with AWS-based data infrastructure and interactive monitoring dashboard.
+
+**🏦 Software Engineer @ Morgan Stanley** | London, UK | Jan 2022 - Jul 2023  
+Built automated data validation systems (97% accuracy), optimized C++ database performance (+20% throughput), maintained real-time financial data pipelines for enterprise trading operations.
 
 **💻 Open Source Contributor @ FINOS** | Aug 2023 - Nov 2023  
 Enhanced enterprise fintech data visualization frameworks (C++, JavaScript) for global financial institutions.

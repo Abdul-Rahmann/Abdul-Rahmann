@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Samuel Adetsi
 
-### Data Scientist & ML Engineer | 2+ Years Experience | Ex-Morgan Stanley
+### Data Scientist | Data Engineer | 2+ Years Experience | Ex-Morgan Stanley
 
-*Building production ML systems and scalable data pipelines in Canada*
+*Building predictive models and scalable data solutions in Canada*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-adetsi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdul-rahmann.github.io/portfolio)
@@ -17,16 +17,16 @@
 
 ## 🎯 About Me
 
-Data Scientist with **2+ years building production ML systems** at Morgan Stanley and Brilliant Automation. Experience spans high-performance financial systems, predictive maintenance pipelines, and scalable data engineering. Recent Master's graduate from UBC combining statistical modeling, machine learning, and cloud infrastructure to deliver end-to-end solutions that run in production.
+Data Scientist with **2+ years building production systems** at Morgan Stanley and Brilliant Automation. Experience spans predictive modeling, statistical analysis, and data pipeline architecture. Recent Master's graduate from UBC combining machine learning, data engineering, and cloud infrastructure to deliver scalable solutions that run in production.
 
 **What I do:**
-- 🔧 Build production data pipelines with Airflow, dbt, and Snowflake
-- 🤖 Deploy ML models and RAG systems with LangChain, GPT-4, and MLflow
-- 📊 Design scalable architectures on AWS with Docker and CI/CD
-- 📈 Perform statistical analysis, A/B testing, and causal inference
+- 📊 Build predictive models with scikit-learn, PyTorch, TensorFlow, and XGBoost
+- 🔧 Design data pipelines with Airflow, dbt, and Snowflake
+- 🗄️ Implement data architectures with PostgreSQL, MySQL, and cloud warehouses
+- 🤖 Deploy ML systems with LangChain, MLflow, and Docker
+- 📈 Perform statistical analysis, A/B testing, and experimental design
 
-🔍 **Actively seeking:** Data Scientist and ML Engineer roles in Canada  
-💼 **Authorized to work in Canada** | Available for immediate opportunities
+🔍 **Actively seeking:** Data Scientist, Data Engineer, or Data Analyst roles in Canada
 
 ---
 
@@ -143,7 +143,7 @@ Contributed to **FINOS Perspective** and **Waltz**, open-source fintech visualiz
 
 ## 📈 Let's Connect!
 
-💡 **Open to:** Data Scientist and ML Engineer opportunities in Canada  
+💡 **Open to:** Data Scientist, Data Engineer, or Data Analyst opportunities in Canada
 📧 **Email:** abdulrahmanadetsi@gmail.com  
 🔗 **Links:** [Portfolio](https://abdul-rahmann.github.io/portfolio) | [LinkedIn](https://www.linkedin.com/in/samuel-adetsi/) | [Resume](https://abdul-rahmann.github.io/portfolio/assets/resume/samuel_adetsi-resume.pdf)
 

@@ -127,19 +127,6 @@ Contributed to **FINOS Perspective** and **Waltz**, open-source fintech visualiz
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Rahmann&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rahmann&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rahmann&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 📈 Let's Connect!
 

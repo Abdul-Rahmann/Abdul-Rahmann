@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Samuel Adetsi
 
-### Data Scientist | Data Engineer | 2+ Years Experience | Ex-Morgan Stanley
+### Data Scientist | Data Engineer | Data Analyst | Ex-Morgan Stanley
 
 *Building predictive models and scalable data solutions in Canada*
 

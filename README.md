@@ -140,6 +140,4 @@ Contributed to **FINOS Perspective** and **Waltz**, open-source fintech visualiz
 
 *"Building reliable ML systems that ship to production"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdul-Rahmann&color=blue&style=flat-square&label=Profile+Views)
-
 </div>

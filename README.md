@@ -30,7 +30,7 @@ Data Scientist with **2+ years building production systems** at Morgan Stanley a
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ```python
 skills = {

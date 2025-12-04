@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Samuel Adetsi
 
 ### Data Scientist | Data Engineer | Data Analyst | Ex-Morgan Stanley
-
+ 
 *Building predictive models and scalable data solutions in Canada*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-adetsi/)

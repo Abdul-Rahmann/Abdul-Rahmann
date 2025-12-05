@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Samuel Adetsi
+# 👋 Hi, I'm Samuel Adetsi 
 
 ### Data Scientist | Data Engineer | Data Analyst | Ex-Morgan Stanley
  

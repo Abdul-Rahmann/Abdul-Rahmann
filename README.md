@@ -27,7 +27,7 @@ With 3+ years of experience across financial trading infrastructure and industri
 
 At **Morgan Stanley**, I worked on high-frequency market data validation systems supporting trading and risk operations, optimizing latency-sensitive workflows and strengthening downstream reliability.
 
-At **UBC**, I architected an AWS-based predictive maintenance system processing 51K+ daily IoT sensor events, deploying ensemble models with automated retraining and monitoring pipelines that projected $50K+ monthly operational savings.
+At **Brilliant Automation**, I architected an cloud-based predictive maintenance system processing 51K+ daily IoT sensor events, deploying ensemble models with automated retraining and monitoring pipelines that projected $50K+ monthly operational savings.
 
 I’m particularly interested in roles where machine learning meets engineering — building systems that are not just accurate, but scalable, reliable, and observable.
 

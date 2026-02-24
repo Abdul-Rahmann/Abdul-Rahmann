@@ -103,7 +103,7 @@ End-to-end Retrieval-Augmented Generation (RAG) pipeline for financial transacti
 
 **Master of Data Science** — University of British Columbia (2025)
 
-BSc Information Technology — University of Cape Coast
+BSc Information Technology — University of Cape Coast (2021)
 
 ---
 
